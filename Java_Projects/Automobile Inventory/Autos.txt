@@ -1,0 +1,5 @@
+Make: Nissan
+Model: Altima
+Color: Black
+Year: 2022
+Mileage: 5000
